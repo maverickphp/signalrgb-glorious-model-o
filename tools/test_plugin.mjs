@@ -12,7 +12,7 @@ config[0] = 0x04; config[1] = 0x11; config[0x35] = 0x02; config[0x38] = 0x40;
 config[0x39] = 0x80; config[0x3A] = 0x80; config[0x3B] = 0x00;
 
 globalThis.device = {
-  setName() {}, log() {}, pause() {},
+  setName() {}, setImageFromUrl() {}, log() {}, pause() {},
   color: () => color,
   set_endpoint: (iface, usage, page, col) => { collection = col; },
   send_report(data, len) {

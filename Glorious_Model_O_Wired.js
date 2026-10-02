@@ -48,7 +48,7 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl() {
-	return "https://assets.signalrgb.com/devices/brands/glorious/mice/model-o-wireless.png";
+	return "https://raw.githubusercontent.com/maverickphp/signalrgb-glorious-model-o/main/assets/glorious-model-o.png";
 }
 
 function useCollection(collection) {
@@ -119,6 +119,7 @@ function colorDistance(a, b) {
 
 export function Initialize() {
 	device.setName("Glorious Model O");
+	device.setImageFromUrl(ImageUrl());
 	findCollections();
 }
 
