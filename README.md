@@ -1,5 +1,13 @@
 # SignalRGB plugin: Glorious Model O (wired)
 
+<p align="center">
+  <a href="https://www.gloriousgaming.com/products/model-o-eternal"><img src="https://cdn.shopify.com/s/files/1/0549/2681/files/GLO-OE-W-BLK_Web_Gallery_Front.webp?v=1748467406" alt="Glorious Model O wired gaming mouse" width="360"></a>
+  <br>
+  <sub>The original wired Glorious Model O. Pictured: its re-release, the
+  <a href="https://www.gloriousgaming.com/products/model-o-eternal">Model O Eternal</a>, which looks
+  the same. Image © Glorious, linked from gloriousgaming.com.</sub>
+</p>
+
 Lets [SignalRGB](https://signalrgb.com) set the lighting of the original wired **Glorious Model O /
 O-** mouse (USB `258A:0036`, a SinoWealth chip). SignalRGB only supports the Model O *Wireless*
 out of the box.
