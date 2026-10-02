@@ -1,11 +1,9 @@
 # SignalRGB plugin: Glorious Model O (wired)
 
 <p align="center">
-  <a href="https://www.gloriousgaming.com/products/model-o-eternal"><img src="https://cdn.shopify.com/s/files/1/0549/2681/files/GLO-OE-W-BLK_Web_Gallery_Front.webp?v=1748467406" alt="Glorious Model O wired gaming mouse" width="360"></a>
+  <img src="https://static.store-cdn.com/files/19643/Images/glorious-model-o-white-mouse-price-in-pakistan-junaidtech-ga-19643-2356693-210425044402082.jpg" alt="Glorious Model O wired gaming mouse, white" width="360">
   <br>
-  <sub>The original wired Glorious Model O. Pictured: its re-release, the
-  <a href="https://www.gloriousgaming.com/products/model-o-eternal">Model O Eternal</a>, which looks
-  the same. Image © Glorious, linked from gloriousgaming.com.</sub>
+  <sub>The original wired Glorious Model O (white).</sub>
 </p>
 
 Lets [SignalRGB](https://signalrgb.com) set the lighting of the original wired **Glorious Model O /
