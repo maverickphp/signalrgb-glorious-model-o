@@ -48,7 +48,7 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl() {
-	return "https://raw.githubusercontent.com/maverickphp/signalrgb-glorious-model-o/main/assets/glorious-model-o.png";
+	return "https://raw.githubusercontent.com/maverickphp/signalrgb-glorious-model-o/main/assets/signalrgb-glorious-model-o.png";
 }
 
 function useCollection(collection) {
