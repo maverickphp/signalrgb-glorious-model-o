@@ -1,7 +1,7 @@
 # SignalRGB plugin: Glorious Model O (wired)
 
 <p align="center">
-  <img src="https://static.store-cdn.com/files/19643/Images/glorious-model-o-white-mouse-price-in-pakistan-junaidtech-ga-19643-2356693-210425044402082.jpg" alt="Glorious Model O wired gaming mouse, white" width="360">
+  <img src="assets/glorious-model-o.png" alt="Glorious Model O wired gaming mouse, white" width="360">
   <br>
   <sub>The original wired Glorious Model O (white).</sub>
 </p>
